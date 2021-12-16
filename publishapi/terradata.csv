@@ -1,0 +1,4 @@
+sr.no,name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date,planet_type,planet_radius,orbital_radius,orbital_period,eccentricity,solar_system_name,planet_discovery_method,planet_orbital_inclination,planet_density,right_ascension,declination,host_temperature,host_mass,host_radius
+2507,Kepler-226 c,3289.0,45.1276,15.403,2014,Super Earth,2.2736,0.058 AU,5.3 days,0.0,Kepler-226,Transit,,,19h29m30.27s,+47d52m51.6s,5571.0,,0.8,85.7244894562381
+2667,Kepler-282 d,4537.0,61.0176,15.178,2013,Super Earth,2.4528,Unknown,24.8 days,0.0,Kepler-282,Transit,,,18h58m42.55s,+44d47m51.7s,5602.0,,0.9,99.59135420069981
+3015,Kepler-416 b,2299.0,58.1574,14.02,2014,Super Earth,2.4752,Unknown,6.3 days,0.0,Kepler-415,Transit Timing Variations,,,19h35m13.06s,+38d38m20.9s,,0.67,0.64,93.21271999575329
